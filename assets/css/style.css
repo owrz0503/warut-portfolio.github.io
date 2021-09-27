@@ -91,7 +91,7 @@ h6 {
 #header .profile img {
     margin: 15px auto;
     display: block;
-    width: 120px;
+    width: 100px;
     border: 8px solid #2c2f3f;
 }
 
@@ -240,8 +240,9 @@ h6 {
 
 #hero {
     width: 100%;
+    margin-right: -500px;
     height: 100vh;
-    background: url("../img/hero-bg.jpg") top center;
+    background: url("../img/ovi-bg.png") top center;
     background-size: cover;
 }
 
@@ -317,13 +318,13 @@ section {
 }
 
 .section-title {
-    padding-bottom: 30px;
+    padding-bottom: 10px;
 }
 
 .section-title h2 {
     font-size: 32px;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     padding-bottom: 20px;
     position: relative;
     color: #173b6c;
